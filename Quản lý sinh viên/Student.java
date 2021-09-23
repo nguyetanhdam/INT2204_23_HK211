@@ -1,8 +1,4 @@
 public class Student {
-    public static void main(String[] args) {
-
-    }
-    
     private String name;
     private String id;
     private String group;
