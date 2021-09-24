@@ -2,6 +2,8 @@
 // Do not change the name of the Solution class
 public class Solution {
     // Type your main code here
+
+    // tự đổi tên lớp nhé!
     public static String printHello() {
         return "HelloWorld";
     }
