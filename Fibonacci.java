@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Solution {
+//public class Solution
+public class Fibonacci {
     /**
      * tinh fibo thu n.
      */
@@ -29,7 +30,8 @@ public class Solution {
      * in ra.
      */
     public static void main(String[] args) {
-        Solution s = new Solution();
+        // Solution s = new Solution();
+        Fibonacci s = new Fibonacci();
         Scanner input = new Scanner(System.in);
         long n = input.nextLong();
         long res = (long) s.fibonacci(n);
